@@ -40,7 +40,9 @@ public class MenuItem {
         return age;
     }
 
-    protected void setAge(String aAge) {
-        age = aAge;
+    protected void setAge(String age) {
+        this.age = age;
     }
+
+
 }
